@@ -59,5 +59,6 @@ public class OneServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("OneServlet类针对浏览器发送POST请求方式处理");
+        System.out.println("Pull test!!!")
     }
 }
