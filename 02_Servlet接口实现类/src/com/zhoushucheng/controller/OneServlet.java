@@ -51,7 +51,7 @@ public class OneServlet extends HttpServlet {
         System.out.println("OneServlet类针对浏览器发送GET请求方式处理");
         System.out.println("doGet,doGet,doGet!!!!!");
         System.out.println("test, test, test, test, version, test!");
-        System.out.println("git3 test!");
+        System.out.println("hello git4!");
     }
 
     @Override
